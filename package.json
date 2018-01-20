@@ -1,11 +1,11 @@
 {
-  "name": "sequelize-paper-trail",
+  "name": "sequelize-paper-trail-fr",
   "version": "2.0.0",
   "description": "Track changes to your Sequelize models data. Perfect for auditing or versioning.",
   "author": {
-    "name": "Niels van Galen Last",
-    "email": "nvangalenlast@gmail.com",
-    "url": "https://nielsgl.com"
+    "name": "Alex S. Glomsaas",
+    "email": "alex@sorlie.eu",
+    "url": "https://fuelrats.com"
   },
   "license": "MIT",
   "homepage": "https://github.com/nielsgl/sequelize-paper-trail#readme",
